@@ -15,5 +15,9 @@
 
 [코로나 주거지역별 위험인지도 분석](https://dacon.io/m/competitions/official/235590/codeshare/930)
 
+### 추가
+
+[뉴스, 지하철 코로나 여파 승객감소](https://www.google.com/amp/s/www.donga.com/news/amp/all/20200601/101315418/1)
+
 
 
