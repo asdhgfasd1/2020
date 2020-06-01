@@ -19,5 +19,7 @@
 
 [뉴스, 지하철 코로나 여파 승객감소](https://www.google.com/amp/s/www.donga.com/news/amp/all/20200601/101315418/1)
 
+[뉴스, 한여름에도 코로나가 올 수 있을까?](https://news.v.daum.net/v/20200602060446230)
+
 
 
