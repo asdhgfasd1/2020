@@ -21,5 +21,7 @@
 
 [뉴스, 한여름에도 코로나가 올 수 있을까?](https://news.v.daum.net/v/20200602060446230)
 
+[뉴스, 지하철 혼잡도안내 skt와 협약](https://mnews.joins.com/article/23602580#home)
+
 
 
