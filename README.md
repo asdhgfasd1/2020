@@ -32,4 +32,4 @@
 
 [논문, 환경변화에 따른 관광산업의 빅데이터 활용이 관광객 만족에 미치는 영향 ](http://kiss.kstudy.com.libproxy.sogang.ac.kr/thesis/thesis-view.asp?key=3549245)
 
-
+공공데이터가 일자리 창출에 미치는 요인 분석
